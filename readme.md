@@ -1,0 +1,1 @@
+I'm learning web development and this repository will be updated regularly as I learn new concepts and build more projects.
